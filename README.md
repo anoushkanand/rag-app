@@ -14,8 +14,8 @@ This Streamlit app allows you to upload one or more PDF documents and interact w
 - 🔁 Maintains conversation history using memory buffer
 
 
-Create a .env file in the root directory and add your Gemini API key:
-GOOGLE_API_KEY=your_google_genai_api_key
+### Create a .env file in the root directory and add your Gemini API key:
+- GOOGLE_API_KEY=your_google_genai_api_key
 
 ## 📦 Tech Stack
 
