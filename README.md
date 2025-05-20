@@ -25,3 +25,7 @@ This Streamlit app allows you to upload one or more PDF documents and interact w
 ### To make it work:
 - Create a .env file in the root directory and add your Gemini API key:
 - GOOGLE_API_KEY=your_google_genai_api_key
+
+---
+### The deployed app on Streamlit:
+- https://rag-answering.streamlit.app/
